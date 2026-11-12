@@ -1,9 +1,5 @@
-/*
- * OZ PLANNER — Configuração pública do Supabase.
- * Insira APENAS a Project URL e a anon/public/publishable key.
- * NUNCA coloque service_role, secret keys ou senha de banco neste arquivo.
- */
+/* OZ PLANNER — Configuração pública do Supabase. */
 window.OZ_CONFIG = {
-  supabaseUrl: 'COLE_AQUI_A_PROJECT_URL',
-  supabaseAnonKey: 'COLE_AQUI_A_CHAVE_PUBLICA_ANON'
+  supabaseUrl: 'https://ahthbmpgqwruqlpjctrd.supabase.co',
+  supabaseAnonKey: 'sb_publishable_WDHH_x7RNlnxSman87bl8Q_vOkpSPRf'
 };
